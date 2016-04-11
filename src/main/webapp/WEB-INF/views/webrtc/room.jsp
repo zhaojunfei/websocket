@@ -8,7 +8,7 @@
 </head>
 <body>
 	<div>
-		欢迎来带WebRTC聊天室
+		欢迎来到聊天室
 		<input type="file" accept="video/*;capture=camcorder">
 	</div>
 	<script type="text/javascript">
